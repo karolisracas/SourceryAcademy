@@ -12,3 +12,12 @@ Today we learn about git!
 5
 
 6
+
+4
+
+5
+
+6
+
+4
+7
